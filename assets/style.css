@@ -28,6 +28,7 @@
     background-color: rgb(37, 37, 37);
     padding-top: 4px;
     padding-bottom: 4px;
+    color: white;
 }
 body {
     background-color: black;
@@ -39,6 +40,7 @@ body {
     font-family: Inter SemiBold, sans-serif;
     font-size: 16px;
     text-align: center;
+    color: white;
 }
 
 .galleryelement {
@@ -53,14 +55,14 @@ body {
     border-color: white;
   }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1200px) {
     .galleryelement {
       width: 48%;
       margin: 6px 0;
     }
   }
 
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: 700px) {
     .galleryelement {
       width: 100%;
       margin: 6px 0;
@@ -82,4 +84,5 @@ body {
     font-family: Inter, sans-serif;
     font-size: 16px;
     text-align: center;
+    color: white;
 }

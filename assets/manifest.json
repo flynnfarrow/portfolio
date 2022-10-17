@@ -2,5 +2,12 @@
     "name": "Flynn's Photography Portfolio",
     "shortname": "Flynn's Portfolio",
     "starturl": "/",
-    "display": "minimal-ui"
+    "display": "minimal-ui",
+    "icons": [
+        {
+           "src": "assets/favicon_20x.png",
+           "type": "image/png",
+           "sizes": "440x370"
+        }
+    ]
  }
