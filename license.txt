@@ -1,0 +1,4 @@
+Licensing Restrictions
+--
+All the basic HTML, CSS and JSON files are free to use, redistribute or do what you want in any way. Any image files such as the favicon can not be used in any way without a licensing agreement.
+
